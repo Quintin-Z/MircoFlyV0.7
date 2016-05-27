@@ -1,0 +1,21 @@
+--create .\rvmdk\sensorlib.lib
+.\rvmdk\ak8963.o
+.\rvmdk\ak8975.o
+.\rvmdk\bmp180.o
+.\rvmdk\cm3218.o
+.\rvmdk\comp_dcm.o
+.\rvmdk\i2cm_drv.o
+.\rvmdk\isl29023.o
+.\rvmdk\kxti9.o
+.\rvmdk\l3gd20h.o
+.\rvmdk\lsm303d.o
+.\rvmdk\lsm303dlhc_accel.o
+.\rvmdk\lsm303dlhc_mag.o
+.\rvmdk\magneto.o
+.\rvmdk\mpu6050.o
+.\rvmdk\mpu9150.o
+.\rvmdk\quaternion.o
+.\rvmdk\sht21.o
+.\rvmdk\tmp006.o
+.\rvmdk\tmp100.o
+.\rvmdk\vector.o
